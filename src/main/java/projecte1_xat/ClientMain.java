@@ -3,7 +3,6 @@ package projecte1_xat;
 import java.io.*;
 import java.net.*;
 import java.nio.*;
-import java.nio.channels.FileChannel;
 import java.nio.file.*;
 import java.sql.*;
 import java.util.logging.*;
